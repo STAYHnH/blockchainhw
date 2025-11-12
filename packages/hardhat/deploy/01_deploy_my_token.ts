@@ -21,4 +21,4 @@ const deployMyToken: DeployFunction = async function (hre: HardhatRuntimeEnviron
 // 导出部署函数
 export default deployMyToken;
 
-deployMyToken.tags = ["ERC20DYF202330550301"];
+deployMyToken.tags = ["ERC20LYH202330551181"];
